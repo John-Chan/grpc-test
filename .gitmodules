@@ -1,3 +1,6 @@
 [submodule "grpc-common"]
 	path = grpc-common
 	url = ../../grpc/grpc-common.git
+[submodule "grpc"]
+	path = grpc
+	url = ../../grpc/grpc.git
